@@ -2,8 +2,8 @@ Notes App
 
 A new Flutter project.
 # Thông tin sinh viên
-- **Họ và tên**: Nguyễn Văn Quang
-- **MSSV**: 2221050563
+- **Họ và tên**: Phạm Anh Tuân 
+- **MSSV**: 2221050647
 - **Lớp**: DCCTCLC67B
 
 ## Giới thiệu
